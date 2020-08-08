@@ -5,7 +5,7 @@ def play():
     wood = 30
     day_no = 1
     cart = 0
-    gold = 50001
+    gold = 0
     workers = 0
     worker_hire_cost = 20
 
